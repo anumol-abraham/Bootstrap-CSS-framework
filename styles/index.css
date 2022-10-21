@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    background-color: chartreuse;
+    height: 15vh;
+}
+
+.btn-dwnld {
+    border-style: none;
+    background-color: blue;
+    align-self: center;
+}
+a:link{
+    text-decoration:none;
+    text-decoration-color: inherit;
+  }
+  .btn-dwnld:hover {
+    background-color: lightgreen;
+  }
